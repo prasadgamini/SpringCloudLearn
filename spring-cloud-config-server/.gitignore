@@ -1,7 +1,8 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 /.idea/
-/.idea/
+/configdemo/.idea/
+/spring-cloud-config-server/.idea/
 
 ### STS ###
 .apt_generated
