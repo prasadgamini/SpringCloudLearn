@@ -3,4 +3,5 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/prasadgamini/SpringCloudLearn
+          search-paths: ConfigData
