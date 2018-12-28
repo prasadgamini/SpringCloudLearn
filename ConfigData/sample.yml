@@ -1,1 +1,5 @@
 numberOfConnections: 3
+cs:
+  travelinfo:
+    maxversion: 40
+    minversion: 0
