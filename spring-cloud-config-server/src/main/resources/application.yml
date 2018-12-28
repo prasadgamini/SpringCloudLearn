@@ -5,3 +5,5 @@ spring:
         git:
           uri: https://github.com/prasadgamini/SpringCloudLearn
           search-paths: ConfigData
+server:
+  port: 9090
