@@ -1,3 +1,6 @@
 ---
 sample:
   numberOfLessons: 90
+cs:
+  travelinfo:
+    minversion: 0
