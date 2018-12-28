@@ -3,5 +3,4 @@ sample:
   numberOfLessons: 90
 cs:
   travelinfo:
-    maxversion: 400
     minversion: 0
