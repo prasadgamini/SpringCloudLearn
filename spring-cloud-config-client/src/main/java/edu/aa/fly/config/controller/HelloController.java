@@ -8,11 +8,14 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     @Value("${sample.numberOfLessons}")
-    private Integer numberOfLessons;
+    private int numberOfLessons;
+
+    @Value("${cs.travelinfo.maxversion}")
+    private int csMajorVersion;
 
     @RequestMapping("/hi")
     public String sayHi(){
         System.out.printf("ONV");
-        return "ONV..." + numberOfLessons;
+        return "ONV..." + numberOfLessons + " ...  " + csMajorVersion;
     }
 }
