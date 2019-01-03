@@ -1,1 +1,3 @@
 # SpringCloudLearn
+- ConfigData is holding all application's configurations...
+- The properties in application.* will apply to all applications.
