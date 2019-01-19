@@ -4,5 +4,5 @@ cs:
     maxversion: 40
     minversion: 0
 wordConfig:
-  preamble: The lucky word
-  lucky-word: ONV
+  preamble: The lucky word is
+  lucky-word:  ONV
