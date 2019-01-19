@@ -3,3 +3,7 @@ server:
   port: 9091
 
 cs.travelinfo.maxversion: 9
+---
+wordConfig:
+  preamble: The lucky word is
+  lucky-word: ONV_Local
