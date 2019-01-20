@@ -4,4 +4,4 @@
 # This is enhanced with lab-8. Spring cloud bus with Rabbit MQ
 - After changing the properties in ConfigServer give the POST refresh url
 - We can simpley do this with following command
-  `curl --request POST http://localhost:9090/actuator/bus-refresh`
+  > `curl --request POST http://localhost:9090/actuator/bus-refresh`
